@@ -6,5 +6,8 @@
 	<classpathentry kind="lib" path="/Users/americosavinon/dev/Java/poi-3.7/poi-ooxml-3.7-20101029.jar"/>
 	<classpathentry kind="lib" path="/Users/americosavinon/dev/Java/poi-3.7/poi-ooxml-schemas-3.7-20101029.jar"/>
 	<classpathentry kind="lib" path="/Users/americosavinon/dev/Java/poi-3.7/poi-scratchpad-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="/Users/americosavinon/dev/JackBe/Clients - Projects/PG/Operation Easy/dev_on_VPN/Java_Codes/WARS/presto-utilities-httpClientNTML-jleon-v1_0.jar"/>
+	<classpathentry kind="lib" path="/Users/americosavinon/dev/Java/xmlbeans-2.5.0/lib/xbean.jar"/>
+	<classpathentry kind="lib" path="/Users/americosavinon/dev/Java/dom4j-1.6.1/dom4j-1.6.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
